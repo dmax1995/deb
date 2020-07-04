@@ -7,6 +7,8 @@ public class Remo {
 	@Test
 	public void run() {
 		Reporter.log("my test run", true);
+		Reporter.log("my test run", true);
+		
 	}
 
 }
